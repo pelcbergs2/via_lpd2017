@@ -1,0 +1,21 @@
+# Blender MTL File: 'shootingstar.blend'
+# Material Count: 2
+
+newmtl mac10-gunmetalmedgrey
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.102588 0.102588 0.102588
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Kristaps\Desktop\Lpd_repos\asseti\xonotic-concrete\xonotic\mediasource\models\weapons\morgenstern\morgenstern_head.tga
+
+newmtl mac10-gunmetalmedgrey_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.102588 0.102588 0.102588
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
